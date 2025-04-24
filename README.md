@@ -21,6 +21,36 @@ IaaS (Infraestrutura como serviço) Ex: Armazenamento; Redes Virtuais; Máquinas
 PaaS (Plataforma como serviço) Ex: Sistemas operacionais; Ferramentas p/ Devs; Análise de negócio, Gerenciamento e Database.
 SaaS (Software como serviço) Ex: Apps como, Office 365; Canva; Miro...
 
+Benefícios da Nuvem Azure:
+Quando o serviço fica indisponível, não tem o que fazer, a não ser monitorar o retorno do serviço. Este tempo indisponível é descontado no valor cobrado mensalemnte.
+
+Alta disponibilidade
+Acordos de nível de serviço / SLA
+
+Escalabilidade:
+Capacidade de ajustar recursos EX: Adicionar mais recursos para lidar com a demanda.
+
+Elasticidade:
+Posso dimensionar meu ambiente com base em requisições, de forma automatizada de preferência.
+
+Confiabilidade:
+Ter um sistema que se recupera de falhas e continua funcionando. Um ambiente confiável.
+
+Previsibilidade:
+Confiança, desempenho o custo.
+
+Segurança:
+Regras, modelo, segurança de recursos.
+
+Governança:
+Auditoria para mitigar e sinalizar coisas que estejam fora de conformidade, definir padrões de gestão.
+
+Gerenciabilidade:
+A nuvem facilita a gerenciabilidade escalar automaticamente a implantação de recursos com base na necessidade, pode ser feito por meio de um portal Web.
+-Usando uma interface de linha de comando.
+-Usando APIs
+-Usando PowerShell.
+
 Regiões e Zonas
 Região: Ponto geográfico que tem 3 zonas de disponibilidade: Pares de regiões; Regiões soberanas (EUA e China); Zona de disponibilidade.
 
