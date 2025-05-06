@@ -74,3 +74,21 @@ Arquivo Morto -> Acessado nos últimos 180 dias
 
 Azure Data Box:
 Uma caixa para transferir grande volume de dados de forma física.
+
+IaaS (Infraestrutura como serviço) 
+Infra de TI -> pago somente o que eu usar 
+- Mais flexível.
+- Você configura e gerencia o Hardware para o seu aplicativo.
+
+PaaS (Plataforma como serviço) 
+Banco de dados (Aplicação)
+Ferramentas para Devs; Sistema operacional; Gerenciamento de Banco de dados.
+- Focado no Desenvolvimento de Aplicativos
+- Gerenciamento e plataforma por conta do provedor da nuvem
+
+SaaS (Software como serviço)
+Aplicativos
+Os usuários se conectam e usam aplicativos com base em nuvem pela internet.
+Ex: Office 365; Email e calendários.
+- Pagamento conforme o uso
+- Usuários pagam pelo software que utilizam em um modelo de assinatura.
